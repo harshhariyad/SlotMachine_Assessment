@@ -2,8 +2,6 @@
 
 A clean, responsive, and modular 2D Slot Machine prototype built in Unity for an Engineering Internship Assessment. The project utilizes a decoupled architecture to separate game state, win evaluation logic, and UI display features.
 
-🎮 **[Click Here to Play the Live WebGL Build](https://harshhariyad.github.io/SlotMachine_Assessment//Build/WebGL/)**
-
 ---
 
 ## 🚀 Features & Gameplay
@@ -43,10 +41,7 @@ The engine is engineered using fundamental Game Programming Design Patterns to k
 
 The project includes a ready-to-play WebGL build located in the `/Build/WebGL` folder.
 
-**Option 1: Play Online**
-Click the link at the top of this README to play the live version hosted on GitHub Pages.
-
-**Option 2: Run Locally**
+**Run Locally**
 1. Clone this repository to your local machine.
 2. Navigate to the `/Build/WebGL` folder.
 3. Open `index.html` in your web browser. *(Note: Some browsers block local file execution for WebGL. If it doesn't load, use a local server like `python -m http.server` or a VS Code Live Server extension).*
