@@ -2,7 +2,7 @@
 
 A clean, responsive, and modular 2D Slot Machine prototype built in Unity for an Engineering Internship Assessment. The project utilizes a decoupled architecture to separate game state, win evaluation logic, and UI display features.
 
-🎮 **[Click Here to Play the Live WebGL Build](https://harshhariyad.github.io/SlotMachine-Assessment/)**
+🎮 **[Click Here to Play the Live WebGL Build](https://harshhariyad.github.io/SlotMachine_Assessment/)**
 
 ---
 
